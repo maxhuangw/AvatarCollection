@@ -6,7 +6,7 @@
 - Add your avatar image to the `avatars` folder.
     - The image should be named as `<your_name>_<sha1sum>.<ext>`.
         - `<your_name>` is your name.
-            - If your name contains spaces, replace them with underscores (`_`).
+            - If your name contains spaces, replace them with dashes (`-`).
         - `<sha1sum>` is the SHA1 checksum of your avatar image.
         - `<ext>` is the extension of the image (e.g., `.jpg`, `.png`, `.gif`)
 - Create a pull request to merge your branch into `master`.
